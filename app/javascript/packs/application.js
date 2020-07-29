@@ -8,4 +8,7 @@ const imagePath = (name) => images(name, true)
 
 import 'stylesheets/application.sass'
 
+import 'controllers'
+
 Rails.start()
+
